@@ -15,7 +15,7 @@ Program:
 
 Clone repo:
 ```bash
-    git clone 
+    git clone https://github.com/GakuruAlex/scourgify.git
 ```
 
 Execute:
